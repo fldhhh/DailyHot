@@ -5,8 +5,8 @@
       <n-text
         class="author"
         :depth="3"
-        v-html="packageJson.author"
-        @click="jumpLink(packageJson.github)"
+        v-html="fldhhh"
+        @click="jumpLink('https://github.com/fldhhh/DailyHot')"
       />
     </div>
     <n-text
